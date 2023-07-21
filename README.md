@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Prachi
 
 # 💫 About Me:
 🔭 I am currently pursuing BTech in Computer Science<br>👯 I am looking to collaborate on Web Projects<br>💻 Skilled in HTML, CSS and currently learning JS <br>📫How to reach me- chauhanprachi267@gmail.com
