@@ -1,6 +1,7 @@
-### Hi 👋, I'm Prachi
+<h1 align="center">Hi 👋, I'm Prachi </h1>
 
-# 💫 About Me:
+
+## 💫 About Me:
 🔭 I am currently pursuing BTech in Computer Science<br>👯 I am looking to collaborate on Web Projects<br>💻 Skilled in HTML, CSS and currently learning JS <br>📫How to reach me- chauhanprachi267@gmail.com
 
 
