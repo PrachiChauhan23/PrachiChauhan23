@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prachi </h1>
+<h1 text-align="center">Hi 👋, I'm Prachi </h1>
 
 
 ## 💫 About Me:
