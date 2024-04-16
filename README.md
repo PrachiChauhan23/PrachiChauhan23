@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-🔭 I am currently pursuing BTech in Computer Science<br>👯 I am looking to collaborate on Web Projects<br>💻 Skilled in HTML, CSS and currently learning JS <br>📫How to reach me- chauhanprachi267@gmail.com
+🔭 I am currently pursuing BTech in Computer Science<br>👯 I am looking to collaborate on Web Projects<br>💻 Skilled in HTML, CSS ,Js and currently learning React <br>📫How to reach me- chauhanprachi267@gmail.com
 
 
 ## 🌐 Socials:
